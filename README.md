@@ -15,3 +15,10 @@ The aim of the project is to help me imporve my data science skills by answering
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+# Prediciting prices using Airbnb data
+Building a supervised ML model  to predict prices using the Inside Airbnb open datasets on listings using python libraries.
+
+## Project description
+The aim of the project is to help me practice my ML model building skills with the Airbnb dataset. I have tied this down to a personal interest to help my brother understand what is the optimal price he should list his room on Airbnb
